@@ -1,0 +1,29 @@
+{
+	"id": "remi",
+	"name": "Remi",
+	"description": "Jeedom plugin to control UrbanHello's REMI",
+	"licence": "AGPL",
+	"author": "Shauni <nassim@lakebir.fr>",
+	"require": "4.0",
+	"category": "programming",
+	"hasDependency": false,
+	"hasOwnDeamon": false,
+	"maxDependancyInstallTime": 0,
+	"changelog": "https://github.com/Faxendo/#language#/changelog",
+	"documentation": "https://jeedom.github.io/plugin-template/#language#/",
+	"link": {
+		"forum": "Lien vers le forum"
+	},
+	"language": [
+		"fr_FR",
+		"en_US"
+	],
+	"compatibility": [
+		"miniplus",
+		"smart",
+		"rpi",
+		"docker",
+		"diy",
+		"mobile"
+	]
+}
